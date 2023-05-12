@@ -40,3 +40,24 @@ Manual Review
 
 ## Recommendation
 
+# Issue M-2: low issue 
+
+Source: https://github.com/testing-org-1234/2023-02-hmfalse-judging3/issues/5 
+
+## Found by 
+rcstanciu
+
+## Summary
+
+## Vulnerability Detail
+
+## Impact
+
+## Code Snippet
+
+## Tool used
+
+Manual Review
+
+## Recommendation
+
